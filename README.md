@@ -4,4 +4,4 @@ This Horiseon website initially had HTML that contained no semantic elements and
 
 ![Deployed Image](./assets/images/horiseon-image.png)
 
-Deployed Website link: 
+Deployed Website link: https://cwendland.github.io/Horiseon-Website-Refactor/
