@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Adds fonts and header background color and text color */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,10 +17,14 @@ header {
     color: #ffffff;
 }
 
+/* Makes the Horiseon inline block */
+
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
+/* Changes the header nav bar to be smaller and different font */
 
 header nav {
     padding-top: 15px;
@@ -28,14 +34,20 @@ header nav {
     font-size: 20px;
 }
 
+/* Changes the list type */
+
 header nav ul {
     list-style-type: none;
 }
+
+/* Makes the nav list inline-block and adds a left margin */
 
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/* Changes the main body font and creates the styling on the boxes */
 
 article {
     margin-bottom: 20px;
@@ -45,6 +57,8 @@ article {
     background-color: #0072bb;
     color: #ffffff;
 }
+
+/* Styling for the article images */
 
 article img {
     max-height: 200px;
@@ -75,6 +89,8 @@ h3 {
     text-align: center;
 }
 
+/* Styling for the footer */
+
 footer {
     padding: 30px;
     clear: both;
@@ -86,9 +102,13 @@ footer h2 {
     font-size: 20px;
 }
 
+/* Changes the color of the "seo" in Horiseon */
+
 .seo {
     color: #d9dcd6;
 }
+
+/* Changes the size of the main page image */
 
 .hero {
     height: 800px;
@@ -97,6 +117,8 @@ footer h2 {
     background-size: cover;
     background-position: center;
 }
+
+/* decides what side of the article the image is placed on */
 
 .float-left {
     float: left;
@@ -114,6 +136,8 @@ footer h2 {
     margin-left: 20px;
 }
 
+/* Changes the styling of the right side bar */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,6 +148,8 @@ footer h2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
+/* Changes image options of right side bar */
 
 .benefits img {
     display: block;
